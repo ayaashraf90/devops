@@ -1,7 +1,10 @@
 # devops
 *** install K8s cluster with one master and one worker , install juice-shop from docker hub and configure service and ingress nginx*******
 *********install K8s on master node ********
+
+
 apt-get update
+
 apt-get install docker.io
 docker ––version
 systemctl enable docker
